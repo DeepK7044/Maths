@@ -8,8 +8,9 @@ namespace Maths
         {
             int a = 10, b = 15;
             int c = a + b;
-            Console.WriteLine("This is Addition Program:"); 
-            Console.WriteLine("Sum is : {0}", c);
+            Console.WriteLine("This is Addition Program:");
+            Console.WriteLine("Sum is : {0}", c); //Here addition result is shows
+            
             Console.ReadLine();
         }
     }
